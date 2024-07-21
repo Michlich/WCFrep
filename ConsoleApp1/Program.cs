@@ -37,7 +37,7 @@ namespace ConsoleApp1
                 StoreName.My,
                 X509FindType.FindBySubjectName,
                 "localhost");
-
+            cc.Open();
             // Begin using the client.  
             Console.WriteLine(cc.TestFunction("1111"));
             //...  
