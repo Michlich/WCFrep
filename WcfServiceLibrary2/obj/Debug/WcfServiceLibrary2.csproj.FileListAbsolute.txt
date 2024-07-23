@@ -1,7 +1,0 @@
-C:\Users\Anton\Desktop\Комп Антон\Voenmeh (top secret)\WCF2\WcfServiceLibrary2\WcfServiceLibrary2\bin\Debug\WcfServiceLibrary2.dll.config
-C:\Users\Anton\Desktop\Комп Антон\Voenmeh (top secret)\WCF2\WcfServiceLibrary2\WcfServiceLibrary2\bin\Debug\WcfServiceLibrary2.dll
-C:\Users\Anton\Desktop\Комп Антон\Voenmeh (top secret)\WCF2\WcfServiceLibrary2\WcfServiceLibrary2\bin\Debug\WcfServiceLibrary2.pdb
-C:\Users\Anton\Desktop\Комп Антон\Voenmeh (top secret)\WCF2\WcfServiceLibrary2\WcfServiceLibrary2\obj\Debug\WcfServiceLibrary2.csproj.AssemblyReference.cache
-C:\Users\Anton\Desktop\Комп Антон\Voenmeh (top secret)\WCF2\WcfServiceLibrary2\WcfServiceLibrary2\obj\Debug\WcfServiceLibrary2.csproj.CoreCompileInputs.cache
-C:\Users\Anton\Desktop\Комп Антон\Voenmeh (top secret)\WCF2\WcfServiceLibrary2\WcfServiceLibrary2\obj\Debug\WcfServiceLibrary2.dll
-C:\Users\Anton\Desktop\Комп Антон\Voenmeh (top secret)\WCF2\WcfServiceLibrary2\WcfServiceLibrary2\obj\Debug\WcfServiceLibrary2.pdb
