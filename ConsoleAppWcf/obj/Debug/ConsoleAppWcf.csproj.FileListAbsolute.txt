@@ -1,0 +1,24 @@
+C:\Users\Anton\Desktop\Комп Антон\Voenmeh (top secret)\WCF2\WcfServiceLibrary1\ConsoleAppWcf\bin\Debug\ConsoleAppWcf.exe.config
+C:\Users\Anton\Desktop\Комп Антон\Voenmeh (top secret)\WCF2\WcfServiceLibrary1\ConsoleAppWcf\bin\Debug\ConsoleAppWcf.exe
+C:\Users\Anton\Desktop\Комп Антон\Voenmeh (top secret)\WCF2\WcfServiceLibrary1\ConsoleAppWcf\bin\Debug\ConsoleAppWcf.pdb
+C:\Users\Anton\Desktop\Комп Антон\Voenmeh (top secret)\WCF2\WcfServiceLibrary1\ConsoleAppWcf\bin\Debug\WcfServiceLibrary1.dll
+C:\Users\Anton\Desktop\Комп Антон\Voenmeh (top secret)\WCF2\WcfServiceLibrary1\ConsoleAppWcf\bin\Debug\WcfServiceLibrary1.pdb
+C:\Users\Anton\Desktop\Комп Антон\Voenmeh (top secret)\WCF2\WcfServiceLibrary1\ConsoleAppWcf\bin\Debug\WcfServiceLibrary1.dll.config
+C:\Users\Anton\Desktop\Комп Антон\Voenmeh (top secret)\WCF2\WcfServiceLibrary1\ConsoleAppWcf\obj\Debug\ConsoleAppWcf.csproj.AssemblyReference.cache
+C:\Users\Anton\Desktop\Комп Антон\Voenmeh (top secret)\WCF2\WcfServiceLibrary1\ConsoleAppWcf\obj\Debug\ConsoleAppWcf.csproj.SuggestedBindingRedirects.cache
+C:\Users\Anton\Desktop\Комп Антон\Voenmeh (top secret)\WCF2\WcfServiceLibrary1\ConsoleAppWcf\obj\Debug\ConsoleAppWcf.csproj.CoreCompileInputs.cache
+C:\Users\Anton\Desktop\Комп Антон\Voenmeh (top secret)\WCF2\WcfServiceLibrary1\ConsoleAppWcf\obj\Debug\ConsoleAppWcf.csproj.CopyComplete
+C:\Users\Anton\Desktop\Комп Антон\Voenmeh (top secret)\WCF2\WcfServiceLibrary1\ConsoleAppWcf\obj\Debug\ConsoleAppWcf.exe
+C:\Users\Anton\Desktop\Комп Антон\Voenmeh (top secret)\WCF2\WcfServiceLibrary1\ConsoleAppWcf\obj\Debug\ConsoleAppWcf.pdb
+C:\Users\Anton\Downloads\WcfServiceLibrary1\WcfServiceLibrary1\ConsoleAppWcf\obj\Debug\ConsoleAppWcf.csproj.AssemblyReference.cache
+C:\Users\Anton\Downloads\WcfServiceLibrary1\WcfServiceLibrary1\ConsoleAppWcf\obj\Debug\ConsoleAppWcf.csproj.SuggestedBindingRedirects.cache
+C:\Users\Anton\Downloads\WcfServiceLibrary1\WcfServiceLibrary1\ConsoleAppWcf\obj\Debug\ConsoleAppWcf.csproj.CoreCompileInputs.cache
+C:\Users\Anton\Downloads\WcfServiceLibrary1\WcfServiceLibrary1\ConsoleAppWcf\obj\Debug\ConsoleAppWcf.exe
+C:\Users\Anton\Downloads\WcfServiceLibrary1\WcfServiceLibrary1\ConsoleAppWcf\obj\Debug\ConsoleAppWcf.pdb
+C:\Users\Anton\Downloads\WcfServiceLibrary1\WcfServiceLibrary1\ConsoleAppWcf\bin\Debug\ConsoleAppWcf.exe.config
+C:\Users\Anton\Downloads\WcfServiceLibrary1\WcfServiceLibrary1\ConsoleAppWcf\bin\Debug\ConsoleAppWcf.exe
+C:\Users\Anton\Downloads\WcfServiceLibrary1\WcfServiceLibrary1\ConsoleAppWcf\bin\Debug\ConsoleAppWcf.pdb
+C:\Users\Anton\Downloads\WcfServiceLibrary1\WcfServiceLibrary1\ConsoleAppWcf\bin\Debug\WcfServiceLibrary1.dll
+C:\Users\Anton\Downloads\WcfServiceLibrary1\WcfServiceLibrary1\ConsoleAppWcf\bin\Debug\WcfServiceLibrary1.pdb
+C:\Users\Anton\Downloads\WcfServiceLibrary1\WcfServiceLibrary1\ConsoleAppWcf\bin\Debug\WcfServiceLibrary1.dll.config
+C:\Users\Anton\Downloads\WcfServiceLibrary1\WcfServiceLibrary1\ConsoleAppWcf\obj\Debug\ConsoleAppWcf.csproj.CopyComplete
